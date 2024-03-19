@@ -265,3 +265,21 @@ ul a {
 .copyright{
 padding-top: 5px;
 }
+/* CREATOR */
+.creator{
+    height: 100px;
+    /* width: 25%; */
+    background-color:#0f1111;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* font-size: 1rem; */
+}
+.creator i{
+    font-size: 1rem;
+    color: orange;
+   /* font-weight: bolder; */
+   justify-content: right;
+   align-items: center;
+}
